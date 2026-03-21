@@ -1,0 +1,9 @@
+torch
+torchvision
+clip-anytorch
+numpy
+pillow
+streamlit
+scikit-learn
+requests
+beautifulsoup4

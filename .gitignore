@@ -1,0 +1,12 @@
+# Python cache and virtual environment
+__pycache__/
+.venv/
+
+# Large dataset and generated artifacts
+dataset/
+features.npy
+labels.npy
+monument_index.faiss
+
+# Optional local metadata/output files
+*.log
