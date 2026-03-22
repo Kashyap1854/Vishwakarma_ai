@@ -1,1 +1,1 @@
-# Vishwakarma_ai
+pip install requests beautifulsoup4 lxml
