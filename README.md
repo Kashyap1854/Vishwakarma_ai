@@ -49,24 +49,6 @@ npm run dev
 
 The application will be available at `http://localhost:5173`.
 
-### Building for Production
-
-To create a production build:
-
-```bash
-npm run build
-```
-
-The build output will be located in the `dist` directory.
-
-### Linting
-
-To check for linting errors:
-
-```bash
-npm run lint
-```
-
 ## Project Structure
 
 ```
